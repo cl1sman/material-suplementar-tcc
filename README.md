@@ -37,7 +37,7 @@ O artigo principal está disponível em: [repositorio.ufms.br](https://repositor
 |-------|--------|------|
 | Fernandes e Silva (2025) | Vulnerabilidades em Apps Web — Leilões e EAD | [🔗](https://repositorio.ufms.br/handle/123456789/13210) |
 | Vitorino e Silva (2025) | Vulnerabilidades WordPress em Instituições de Ensino | [🔗](https://repositorio.ufms.br/handle/123456789/12178) |
-| Borges e Silva (2025) | Vulnerabilidades Web em Universidade Privada | [🔗](https://repositorio.ufms.br/retrieve/51c473d3-42a7-4230-b483-72ac6491c9a7/31967.pdf) |
+| Paião e Silva (2025) | Vulnerabilidades Web em Universidade Privada | [🔗](https://repositorio.ufms.br/retrieve/51c473d3-42a7-4230-b483-72ac6491c9a7/31967.pdf) |
 
 ---
 
