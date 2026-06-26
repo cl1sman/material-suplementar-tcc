@@ -13,7 +13,7 @@ Universidade Federal de Mato Grosso do Sul (UFMS).
 Este repositório contém os artefatos técnicos produzidos durante a análise não invasiva
 do sistema SICERT (certificados.ufms.br), como material suplementar ao artigo principal.
 
-O artigo principal está disponível em: [repositorio.ufms.br](https://repositorio.ufms.br)
+O artigo principal está disponível em: [repositorio.ufms.br](https://repositorio.ufms.br/handle/123456789/14503)
 
 ---
 
